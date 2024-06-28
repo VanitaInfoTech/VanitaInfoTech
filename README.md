@@ -1,4 +1,4 @@
-Welcome to Vanita InfoTech! 👋
+## Welcome to Vanita InfoTech! 👋
 At Vanita InfoTech, we're passionate about leveraging technology to drive innovation and empower businesses. Here's a glimpse into what we're all about:
 
 👀 Exploring Technology: We're constantly diving into the latest advancements in tech to deliver cutting-edge solutions.
